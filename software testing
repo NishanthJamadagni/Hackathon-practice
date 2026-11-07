@@ -1,0 +1,26 @@
+# Software Testing
+
+## Test Case 1
+Input: Valid image
+Expected: Image uploads successfully
+Status: Not Tested
+
+## Test Case 2
+Input: Invalid file (PDF)
+Expected: Error message displayed
+Status: Not Tested
+
+## Test Case 3
+Input: No file selected
+Expected: Upload warning displayed
+Status: Not Tested
+
+## Test Case 4
+Input: Blurry image
+Expected: Uncertain prediction message
+Status: Not Tested
+
+## Test Case 5
+Input: Large image
+Expected: File size handled correctly
+Status: Not Tested
